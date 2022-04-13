@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello Courtney Andree");
 	System.out.println("Hello Abhishek Bhandari");
 	System.out.println("Hello Achyut Kumar Bhattarai");
-        System.out.println("Hello Penny Willoughby")
+        System.out.println("Hello Penny Willoughby");
+        System.out.println("Hello Naveen Bayanaboina");
     }
 }
